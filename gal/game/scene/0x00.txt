@@ -1,0 +1,6 @@
+changeBg:bedroom.png -next;
+unlockCg:bedroom.png -name=卧室;
+:突然一个女生的资料引入眼前| -fontSize=default;
+:长像是我喜欢的类型，脸小小的很可爱。打Dota2，喜欢二次元，还刷NGA。 -fontSize=default;
+彭彭:可以说是非常吸引我了，这种女孩子为什么会单身？ -fontSize=default;
+彭彭:好想认识一下！ -fontSize=default;

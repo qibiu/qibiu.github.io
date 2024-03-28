@@ -1,0 +1,7 @@
+Game_name:关于我在网上认识一个特别合拍的可爱女生这件事;
+Game_key:14447d31156832c;
+Title_img:WebGAL_New_Enter_Image.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:standard;
+Description:我们的故事;
+Package_name:kikistory;
