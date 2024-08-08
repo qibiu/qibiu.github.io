@@ -1,0 +1,24 @@
+; 初始场景，以及特效演示
+bgm:选择背景音乐;
+unlockBgm:s_Title.mp3 -name=雲を追いかけて;
+intro:"落叶的位置|谱出一首诗|时间在消逝|我们的故事开始"|——    林俊杰<关键词> -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:序章|<遇见> -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=2500;
+changeBg:bedroom.png -next;
+unlockCg:bedroom.png -name=卧室;
+:又是平平淡淡的一天，无聊的刷着交友app。 -fontSize=default;
+:滑动手机。 -fontSize=default;
+:这个不喜欢。 -fontSize=default;
+:不喜欢，下一个。 -fontSize=default;
+choose:继续刷。:选择场景文件|不刷了，摆烂。:0xff.txt;
+:此时，|一个女生的资料映入眼帘。 -fontSize=default;
+miniAvatar:L.webp;
+彭彭:嗯？！ -fontSize=default;
+长像是我喜欢的类型，脸小小的很可爱。打Dota2，喜欢二次元，还刷NGA。 -fontSize=default;
+彭彭:可以说是非常吸引我了！|话说这种女孩子为什么会单身啊喂~ -fontSize=default;
+彭彭:好想认识一下！ -fontSize=default;
+choose:认识一下！:选择场景文件|算了，对方看起来好优秀了，放弃。:0xfe.txt;
+彭彭:啊，狗粮不够发小纸条。|怎么办？ -fontSize=default;
+choose:充钱:选择场景文件|从今天开始每日做任务攒一攒:0xfd.txt;
+:二话不说充了30元，买了100个狗粮。|(小纸条发送) -fontSize=default;
+setTextbox:hide;
+changeScene:0x01.txt
